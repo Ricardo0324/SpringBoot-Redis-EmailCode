@@ -17,9 +17,9 @@ Spring:
     # 配置QQ邮件信息
     host: smtp.qq.com
     # 发送邮件者信箱
-    username: 2758657741@qq.com
+    username: xxxxxx@qq.com
     # IMAP/SMTP服务时邮箱的密文授权码（之前保存的）
-    password: kjnctwrdvabvdfhe
+    password: xxxxxxxxxx
     default-encoding: UTF-8
     port: 465
     properties:
